@@ -17,7 +17,7 @@ post("/tasks") do
   list_id = params.fetch("list_id").to_i()
   task = Task.new({:description => description, :list_id => list_id})
   task.save()
-  @list = list.find(list_id)
+  @list = List.find(list_id)
   erb(:list)
 end
 
