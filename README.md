@@ -41,7 +41,7 @@ Enter a task to add to the to-do list.
 Known Bugs
 ----------
 
-None as of 2014-01-19.
+None as of 2015-01-19.
 
 Author
 ------
@@ -51,4 +51,4 @@ J. TURNER
 License
 -------
 
-MIT license.
+MIT license
