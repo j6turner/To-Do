@@ -29,9 +29,12 @@ Ruby v.2.2.0 was used to create this application.
 Usage
 -----
 
-Upon completion of the above steps in the Installation section, open
-up your preferred web browser and enter the following address:
+Upon completion of the above steps in the Installation section, enter the following statement into the command line:
+```
+Ruby app.rb
+```
 
+Next, open a Web browser and enter the following address:
 ```url
 localhost:4567/
 ```
